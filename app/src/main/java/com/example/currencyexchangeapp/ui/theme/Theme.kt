@@ -9,7 +9,7 @@ val DarkColorTheme = darkColorScheme(
     primary = DarkGrayBlue,
     primaryContainer = Green,
     tertiary = OliveGreen,
-    secondary = MintCream,
+    secondary = Transparent,
     background = White
 )
 
@@ -17,7 +17,7 @@ val LightColorTheme = darkColorScheme(
     primary = DarkGrayBlue,
     primaryContainer = Green,
     tertiary = OliveGreen,
-    secondary = MintCream,
+    secondary = Transparent,
     background = White
 )
 

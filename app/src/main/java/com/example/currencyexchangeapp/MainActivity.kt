@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
                 AppTopBar()
             },
             content = { paddingValues ->
-
+                AppNavHost(paddingValues)
             }
         )
     }
